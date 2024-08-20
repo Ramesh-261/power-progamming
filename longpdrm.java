@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class longpdrm {
+ class longpdrm {
 
     public static String longestPalindrome(String s) {
         int n = s.length();
